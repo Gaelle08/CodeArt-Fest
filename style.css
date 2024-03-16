@@ -10,4 +10,16 @@ h1 {
 
 .personal-quote {
   color: purple;
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  /* display: block;
+  align-content: left;
+  margin-left: auto;
+  margin-right: auto; */
+  border-radius: 10%;
+  border: 3px solid purple;
 }
